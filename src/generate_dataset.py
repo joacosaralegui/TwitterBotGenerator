@@ -2,7 +2,7 @@
 import twitter
 import tensorflow_hub as hub
 import numpy as np
-from rasa_objects import *
+from chatbot_handler import *
 import os
 
 print("** Loading module...")

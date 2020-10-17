@@ -1,11 +1,27 @@
 #!/usr/bin/env python
 import tweepy
-from config import create_api
-import handler
+import chatbot_conection
 import json
+
+# Fetch credentials
+from credentials import *
 
 # Load api
 api = create_api()
+
+def create_api():
+    print("** Connecting to Twitter API")
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_token, access_token_secret)
+    api = tweepy.API(auth, wait_on_rate_limit=True, 
+        wait_on_rate_limit_notify=True)
+    try:
+        api.verify_credentials()
+    except Exception as e:
+        print("Error creating API")
+        raise e
+    print("API created")
+    return api
 
 def clean_mentions(tweet):
     if 'user_mentions' in tweet.entities:
@@ -115,7 +131,7 @@ def check_mentions(since_id):
     for tweet in mentions:
         print(f"Answering to {tweet.user.name}")
         new_since_id = max(tweet.id, new_since_id)
-        response = handler.get_response(tweet)
+        response = chatbot_conection.get_response(tweet)
 
         if response:
             api.update_status(
