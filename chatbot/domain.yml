@@ -1,0 +1,1006 @@
+intents:
+  - intent_1
+  - intent_3
+  - intent_5
+  - intent_7
+  - intent_9
+  - intent_11
+  - intent_13
+  - intent_15
+  - intent_17
+  - intent_19
+  - intent_21
+  - intent_23
+  - intent_25
+  - intent_27
+  - intent_29
+  - intent_31
+  - intent_33
+  - intent_35
+  - intent_37
+  - intent_39
+  - intent_41
+  - intent_43
+  - intent_45
+  - intent_47
+  - intent_49
+  - intent_51
+  - intent_53
+  - intent_55
+  - intent_57
+  - intent_59
+  - intent_61
+  - intent_63
+  - intent_65
+  - intent_67
+  - intent_69
+  - intent_71
+  - intent_73
+  - intent_75
+  - intent_77
+  - intent_79
+  - intent_81
+  - intent_83
+  - intent_85
+  - intent_87
+  - intent_89
+  - intent_91
+  - intent_93
+  - intent_95
+  - intent_97
+  - intent_99
+  - intent_101
+  - intent_103
+  - intent_105
+  - intent_107
+  - intent_109
+  - intent_111
+  - intent_113
+  - intent_115
+  - intent_117
+  - intent_119
+  - intent_121
+  - intent_123
+  - intent_125
+  - intent_127
+  - intent_129
+  - intent_131
+  - intent_133
+  - intent_135
+  - intent_137
+  - intent_139
+  - intent_141
+  - intent_143
+  - intent_145
+  - intent_147
+  - intent_149
+  - intent_151
+  - intent_153
+  - intent_155
+  - intent_157
+  - intent_159
+  - intent_161
+  - intent_163
+  - intent_165
+  - intent_167
+  - intent_169
+  - intent_171
+  - intent_173
+  - intent_175
+  - intent_177
+  - intent_179
+  - intent_181
+  - intent_183
+  - intent_185
+  - intent_187
+  - intent_189
+  - intent_191
+  - intent_193
+  - intent_195
+  - intent_197
+  - intent_199
+  - intent_201
+  - intent_203
+  - intent_205
+  - intent_207
+  - intent_209
+  - intent_211
+  - intent_213
+  - intent_215
+  - intent_217
+  - intent_219
+  - intent_221
+  - intent_223
+  - intent_225
+  - intent_227
+  - intent_229
+  - intent_231
+  - intent_233
+  - intent_235
+  - intent_237
+  - intent_239
+  - intent_241
+  - intent_243
+  - intent_245
+  - intent_247
+  - intent_249
+  - intent_251
+  - intent_253
+  - intent_255
+  - intent_257
+  - intent_259
+  - intent_261
+  - intent_263
+  - intent_265
+  - intent_267
+  - intent_269
+  - intent_271
+  - intent_273
+  - intent_275
+  - intent_277
+  - intent_279
+  - intent_281
+  - intent_283
+  - intent_285
+  - intent_287
+  - intent_289
+  - intent_291
+  - intent_293
+  - intent_295
+  - intent_297
+  - intent_299
+  - intent_301
+  - intent_303
+  - intent_305
+  - intent_307
+  - intent_309
+  - intent_311
+  - intent_313
+  - intent_315
+  - intent_317
+  - intent_319
+  - intent_321
+  - intent_323
+  - intent_325
+  - intent_327
+  - intent_329
+  - intent_331
+  - intent_333
+  - intent_335
+  - intent_337
+  - intent_339
+  - intent_341
+  - intent_343
+  - intent_345
+  - intent_347
+  - intent_349
+  - intent_351
+  - intent_353
+  - intent_355
+  - intent_357
+  - intent_359
+  - intent_361
+  - intent_363
+  - intent_365
+  - intent_367
+  - intent_369
+  - intent_371
+  - intent_373
+  - intent_375
+  - intent_377
+  - intent_379
+  - intent_381
+  - intent_383
+  - intent_385
+  - intent_387
+  - intent_389
+  - intent_391
+  - intent_393
+  - intent_395
+  - intent_397
+  - intent_399
+
+responses:
+  utter_2:
+    - text: "Como rugbier."
+
+
+  utter_4:
+    - text: "Olavarría y diez más."
+
+
+  utter_6:
+    - text: "😇"
+
+
+  utter_8:
+    - text: "📚💪"
+
+
+  utter_10:
+    - text: "La provincia de Buenos Aires está diseñada para no funcionar, María Laura. Busquemos dirigentes que la cambien, no que la surfeen."
+
+
+  utter_12:
+    - text: "Alfonsomenemismo... Por lo bajo,  se refocila."
+
+
+  utter_14:
+    - text: "Hay uno que de lejos parece, pero tampoco."
+
+
+  utter_16:
+    - text: "Inadvertidamente, el gobernador Kicillof inició el proceso de división bonaerense.. https://t.co/P7IGc3SAZw"
+
+
+  utter_18:
+    - text: "No."
+
+
+  utter_20:
+    - text: "Lo que cuenta es dónde hizo la carrera política. No somos nativistas."
+
+
+  utter_22:
+    - text: "Gracias, Jorge querido, por el aliento y la inspiración!"
+
+
+  utter_24:
+    - text: "Hay que construir consenso. De prepo no sale."
+
+
+  utter_26:
+    - text: "Es arte no figurativo, Gabriel."
+
+
+  utter_28:
+    - text: "Y, sí. https://t.co/JrON2EMUxn"
+
+
+  utter_30:
+    - text: "Hay dos mecanismos para reparar el tejido social mientras se recupera la economía. El primero es la redistribución, que en América Latina es mucho menos efectiva que en los países desarrollados.. 5/6 https://t.co/1rQZZrjygl"
+
+
+  utter_32:
+    - text: "🤗"
+
+
+  utter_34:
+    - text: "40,28% https://t.co/qPg6f5U32t"
+
+
+  utter_36:
+    - text: "Acá está la piedra. Gracias Josefina y Alexis.. https://t.co/jwTkddKdmL"
+
+
+  utter_38:
+    - text: "Me drogaron para la foto. Hubiera preferido un discurso de Heller."
+
+
+  utter_40:
+    - text: "Acá hay un hilo. https://t.co/wronNpw71f"
+
+
+  utter_42:
+    - text: "Nos vamos todos y que La Plata apague la luz."
+
+
+  utter_44:
+    - text: "Bienvenido a la tercera edad, querido Diego!"
+
+
+  utter_46:
+    - text: "Esta dupla é das poucas coisas que restam do Mercosul 😜"
+
+
+  utter_48:
+    - text: "Si después van a cenar te presto la mía."
+
+
+  utter_50:
+    - text: "Es medio aburrido, pero invitame unos vinos y te lo resumo."
+
+
+  utter_52:
+    - text: "La propuesta es dividir lo que hay, no multiplicarlo."
+
+
+  utter_54:
+    - text: "Meros aprendices."
+
+
+  utter_56:
+    - text: "Ya cené, tenés que avisarme antes."
+
+
+  utter_58:
+    - text: "Nuestro inglés es impoluto pero afortunadamente nos editaron. El crédito corresponde a la querida"
+
+
+  utter_60:
+    - text: "En consecuencia, las huelgas y protestas se habían disparado en los últimos años. La pandemia no curó la rabia, la puso en cuarentena. Y cuando vuelva a la calle se encontrará con más pobreza y más desempleo.. 3/6 https://t.co/qOV8k2JMU9"
+
+
+  utter_62:
+    - text: "Malamud@eui.eu"
+
+
+  utter_64:
+    - text: "Acá se puede hojear:. https://t.co/ftHDuri3LE"
+
+
+  utter_66:
+    - text: "Admirado Atilio, en esta historia vos no serías el muchacho sino el taxista. Te espero en Lisboa de barbijo y brazos abiertos!"
+
+
+  utter_68:
+    - text: "Gracias por tu aporte a la democracia."
+
+
+  utter_70:
+    - text: "Difícil que ratifique un tratado que no fue firmado."
+
+
+  utter_72:
+    - text: "Por supuesto. El riesgo cero no existe."
+
+
+  utter_74:
+    - text: "Soy tan viejo que me acuerdo de cuando Brasil tenía una política exterior."
+
+
+  utter_76:
+    - text: "Orgullo es, por sobre todo, que una luchadora feminista como  encabece tu lista al comité nacional 💚❤️ https://t.co/Tuf0JhOgDs"
+
+
+  utter_78:
+    - text: "La desigualdad se redujo durante los 2000, es cierto. PERO… El proceso igualador se estancó en los últimos años, y la desigualdad sigue siendo alta en comparación con otras regiones.. 2/6 https://t.co/MC2JRRyKhW"
+
+
+  utter_80:
+    - text: "Faltaba más! No tengo nada contra la promiscuidad."
+
+
+  utter_82:
+    - text: "Eso tampoco."
+
+
+  utter_84:
+    - text: "La mitad de los argentinos es pobre. Pero, en promedio, Argentina sigue estando entre los países de mayor desarrollo humano del mundo. https://t.co/cqt2cCHz8V"
+
+
+  utter_86:
+    - text: "When Latin America was geopolitically relevant, the US sponsored coups. Now it just grabs a bank. Irrelevance pays off 😜"
+
+
+  utter_88:
+    - text: "Esta es la que va. https://t.co/QQLZoOB1rz"
+
+
+  utter_90:
+    - text: "La referencia denigra a todos los miembros."
+
+
+  utter_92:
+    - text: "En los congresos siempre me dicen que como politólogo soy un gran tuitero."
+
+
+  utter_94:
+    - text: "A vos."
+
+
+  utter_96:
+    - text: "Con Camila."
+
+
+  utter_98:
+    - text: "Negociaremos un tratado para repartirnos Azul."
+
+
+  utter_100:
+    - text: "Infundios."
+
+
+  utter_102:
+    - text: "❤️"
+
+
+  utter_104:
+    - text: "No sé, tengo que leer el paper."
+
+
+  utter_106:
+    - text: "Permitime que googlee por vos.. https://t.co/wdjThLYht7"
+
+
+  utter_108:
+    - text: "Los estados árabes hicieron realidad el dictum de Golda Meir."
+
+
+  utter_110:
+    - text: "Dicen que JJ López en 2011 y Barros Schelotto en 2018 no compitieron, perdieron los jugadores."
+
+
+  utter_112:
+    - text: "Y en la cocina."
+
+
+  utter_114:
+    - text: "https://t.co/qZM1uI647J"
+
+
+  utter_116:
+    - text: "Yo me refería a “los palestinos no existen”."
+
+
+  utter_118:
+    - text: "Y éste es el Jarvis que quiero ser de chico.. https://t.co/MNX48vOSJh"
+
+
+  utter_120:
+    - text: "Hay más diagnósticos (que dependen del estudio) que propuestas (que dependen del acuerdo).. https://t.co/i16tmUM4GT"
+
+
+  utter_122:
+    - text: "Este es mi lado. Si no te gusta, tengo otro."
+
+
+  utter_124:
+    - text: "Seguí provocando embajadores brasileños vos, que el trabajo de archivo en Itamaraty te lo voy a tener que hacer yo.. https://t.co/SvulT0DNd9"
+
+
+  utter_126:
+    - text: "Este gobierno no quiere concertar. El anterior tampoco. Los resultados me eximen del análisis."
+
+
+  utter_128:
+    - text: "El segundo mecanismo para promover la paz social en la era de la rabia es la moderación política. Sin diferencias no hay democracia, pero sin acuerdos no habrá sociedad.. 6/6 https://t.co/Xggc02n76t"
+
+
+  utter_130:
+    - text: "¿Servicios, infraestructura y transporte? La coordinación debería ser intermunicipal, no interprovincial. El problema es que la constitución bonaerense no reconoce la autonomía municipal."
+
+
+  utter_132:
+    - text: "Eso explica el hilo. Me extraña araña."
+
+
+  utter_134:
+    - text: "Pero claro. Los únicos que creen gobernable a esa provincia son los porteños que la usan de mingitorio."
+
+
+  utter_136:
+    - text: "Sos un fenómeno, Leandro 😍. Pero todo lo que querría decir lo dijo mejor  . https://t.co/azoQZ2bsfh"
+
+
+  utter_138:
+    - text: "Conclusión: la política exterior pasó a ser tan disputada como cualquier otra política pública, y no un área reservada para políticas de estado.. https://t.co/upSQObdUlQ"
+
+
+  utter_140:
+    - text: "Un ombú."
+
+
+  utter_142:
+    - text: "Pero qué buen amigo!"
+
+
+  utter_144:
+    - text: "La cita es textual."
+
+
+  utter_146:
+    - text: "Todo llega."
+
+
+  utter_148:
+    - text: "Preservar una provincia con el 40% de la población nacional y 23 provincias con el 60% es un planteo conservador. Eso no te lo discuto."
+
+
+  utter_150:
+    - text: "Lo estructural es esto. Resolvelo con parches nomás. https://t.co/N6XlwiBzfb"
+
+
+  utter_152:
+    - text: "Hablá por vos."
+
+
+  utter_154:
+    - text: "Nobel y Johan Skytte Prize para el que lo consiga."
+
+
+  utter_156:
+    - text: "Amigaaa 😍"
+
+
+  utter_158:
+    - text: "Sobre la decadencia internacional de Brasil también tenemos argumentos (y evidencia): https://t.co/HHdOiw7QCu https://t.co/XhZxp2K2Dx"
+
+
+  utter_160:
+    - text: "Parecía que sí, pero no."
+
+
+  utter_162:
+    - text: "Inviable es lo que hay."
+
+
+  utter_164:
+    - text: "No es el corazón sino el escudo: EEUU amenaza con abandonar la NATO si los europeos transan con Huawei. Y como Europa es un pigmeo militar con fronteras vulnerables, es más dependiente de EEUU que América Latina."
+
+
+  utter_166:
+    - text: "https://t.co/bdntzdqnWj"
+
+
+  utter_168:
+    - text: "Grande y boba Buenos Aires: la subrrepresentación y subcoparticipación son consecuencia de la hipertrofia."
+
+
+  utter_170:
+    - text: "Una de las únicas cuatro personas en ganar el Premio Nobel dos veces. Y después lo ganó también su hija, para que no queden dudas.. https://t.co/pZzWmwaqaV"
+
+
+  utter_172:
+    - text: "Llegó la señal de la UE: 🐔🐔🐔. https://t.co/9TgIvjPW0X"
+
+
+  utter_174:
+    - text: "Thank you, Jorge! We build our case on the assumption that oblivion and subordination are opposite."
+
+
+  utter_176:
+    - text: "Claver Carone es presidente porque América Latina lo votó."
+
+
+  utter_178:
+    - text: "Pensaba en España, Ricardo. Es el caso más dramático de Europa. ¿Tenés información al respecto?. https://t.co/Ak3svITk5P"
+
+
+  utter_180:
+    - text: "No es que no traten."
+
+
+  utter_182:
+    - text: "Maus 😅"
+
+
+  utter_184:
+    - text: "Lombrosiano comentario. Será festejado para adentro."
+
+
+  utter_186:
+    - text: "A los ricos la pandemia los incomoda, a los pobres los destroza. El mundo que viene es peor que el que había.. 4/6 https://t.co/MKzTF430gb"
+
+
+  utter_188:
+    - text: "Me convenciste."
+
+
+  utter_190:
+    - text: "Definitivamente. Con este sistema de coparticipación, el federalismo son los padres."
+
+
+  utter_192:
+    - text: "Con respeto por las luchas pasadas."
+
+
+  utter_194:
+    - text: "malamud@eui.eu"
+
+
+  utter_196:
+    - text: "Me puse el pañuelo verde y la tijera de cortar provincias."
+
+
+  utter_198:
+    - text: "Fue para vuestra protección, mirá cómo le fue a Messi en Lisboa."
+
+
+  utter_200:
+    - text: "Países con menos de 100.000 habitantes y presidentes de menos de 10 días no se cuentan 😉"
+
+
+  utter_202:
+    - text: "Sólo prometo sangre, sudor y citas."
+
+
+  utter_204:
+    - text: "Niet, spasiba."
+
+
+  utter_206:
+    - text: "Para nosotros, seguidores de Norberto Bobbio, el liberalismo es de izquierda."
+
+
+  utter_208:
+    - text: "No sé, nunca tuve."
+
+
+  utter_210:
+    - text: "1994? Ya no se aceptan reclamos!"
+
+
+  utter_212:
+    - text: "Hola Exequiel, buscá todo lo de , ,  y Lucas González."
+
+
+  utter_214:
+    - text: "Así es, Anthony Downs desarrolló el teorema del votante mediano. Hoy los modelos espaciales incluyen más dimensiones.. https://t.co/YjPYu5PM5h"
+
+
+  utter_216:
+    - text: "Me tengo que conseguir ese teléfono."
+
+
+  utter_218:
+    - text: "Te la dejé picando para el bis."
+
+
+  utter_220:
+    - text: "Se piensan que no les vamos a toser encima."
+
+
+  utter_222:
+    - text: "No adjudiques a la mala fe lo que se explica por la estupidez."
+
+
+  utter_224:
+    - text: "Es porque la autora  es superior."
+
+
+  utter_226:
+    - text: "Es cierto. También lo es que la única provincia en la historia que definió solita una elección presidencial fue Córdoba en 2015. Macri y ella se pertenecen mutuamente."
+
+
+  utter_228:
+    - text: "En lógica, absolutamente improbable no se diferencia de absolutamente probable. En política, debería haber dicho imposible."
+
+
+  utter_230:
+    - text: "Te sorprende?"
+
+
+  utter_232:
+    - text: "A Trump, bendito sea."
+
+
+  utter_234:
+    - text: "La Argentina está embarazada de un monstruo."
+
+
+  utter_236:
+    - text: "Translúcido me decía la baba para embucharme."
+
+
+  utter_238:
+    - text: "Martín siempre tiene razón."
+
+
+  utter_240:
+    - text: "https://t.co/zfHFNh5Sro"
+
+
+  utter_242:
+    - text: "Vení! ☀️🏖"
+
+
+  utter_244:
+    - text: "Brain gain for all, redes mediante!"
+
+
+  utter_246:
+    - text: "En el site oficial: https://t.co/LNMF9RdQmg. Acá hay algo en inglés:. https://t.co/SJbWhMuLbY"
+
+
+  utter_248:
+    - text: "Lo que abunda está en facebook."
+
+
+  utter_250:
+    - text: "Es gente lectoescrituralmente desfavorecida."
+
+
+  utter_252:
+    - text: "El Mercosur."
+
+
+  utter_254:
+    - text: "Estás leyendo revistas poco ortodoxas vos."
+
+
+  utter_256:
+    - text: "No llegó el memo a Puerto Madero."
+
+
+  utter_258:
+    - text: "@seebastiansolis Mil perdones (:"
+
+
+  utter_260:
+    - text: "Decís bien: es solo una idea, porque ensayos masivos no hicieron."
+
+
+  utter_262:
+    - text: "Son parientes inciertos."
+
+
+  utter_264:
+    - text: "❤️⚪️"
+
+
+  utter_266:
+    - text: "Muchas gracias, Eduardo."
+
+
+  utter_268:
+    - text: "Es lo que dice el tuit, Jaime."
+
+
+  utter_270:
+    - text: "La primera te la regalan."
+
+
+  utter_272:
+    - text: "Es lo que demandan los electores cuando aumenta la criminalidad."
+
+
+  utter_274:
+    - text: "En realidad soy ventrílocuo."
+
+
+  utter_276:
+    - text: "Arriba esas copas, hermano!"
+
+
+  utter_278:
+    - text: "Boca chica."
+
+
+  utter_280:
+    - text: "Un congreso apoteósico, con una limusina en la puerta y todos los lasanos coreando a los Redó."
+
+
+  utter_282:
+    - text: "No es el caso."
+
+
+  utter_284:
+    - text: "Three-in-ten just killed the pollster."
+
+
+  utter_286:
+    - text: "El candidato de Trump, anticastrista y antichavista, energiza a las comunidades cubana y venezolana que financian y votan al partido republicano (y definen el resultado en el tercer estado más poblado)."
+
+
+  utter_288:
+    - text: "Por eso rechacé el ministerio."
+
+
+  utter_290:
+    - text: "Buen aporte, gracias! https://t.co/5aSKexvsYd"
+
+
+  utter_292:
+    - text: "Y vos sos mi sello de calidad."
+
+
+  utter_294:
+    - text: "No la defino como observador, acepto la identificación de los actores."
+
+
+  utter_296:
+    - text: "Decenas de diplomáticos están evocando a tu madre en este preciso momento."
+
+
+  utter_298:
+    - text: "El señor presidente está ocupado, pero le transmitiré tu inquietud. https://t.co/9qZwGusbsu"
+
+
+  utter_300:
+    - text: "Sí. Necesitamos cultivar la institución del expresidencialismo."
+
+
+  utter_302:
+    - text: "Perú no tiene voto titular sino suplente, pero se suma al pedido de postergación en  — y levanta un candidato propio a la presidencia.. 7/x. https://t.co/KOoFdLHXq0"
+
+
+  utter_304:
+    - text: "No estaban en Argentina, se van de Estados Unidos."
+
+
+  utter_306:
+    - text: "Iba a decir provocó pero perdía la gracia 😉"
+
+
+  utter_308:
+    - text: "Nunca se terminan."
+
+
+  utter_310:
+    - text: "@seebastiansolis Está todo bien, no hay apuro."
+
+
+  utter_312:
+    - text: "¿Es malo que algunos académicos emigren? Con  mostramos que, en nuestra área, la diáspora promueve la ciencia nacional y fomenta su internacionalización: 'brain gain' supera 'brain drain'.. https://t.co/esq20VomkM"
+
+
+  utter_314:
+    - text: "Es cuestión de tiempo, como el inclusivo."
+
+
+  utter_316:
+    - text: "Exacto. Un librazo."
+
+
+  utter_318:
+    - text: "La intrascendencia es la incapacidad de superar un límite (interno); con Esteban hablamos de irrelevancia, la incapacidad de generar un impacto (externo). Yo me conformo con ser prósperos y democráticos, onda Nueva Zelanda."
+
+
+  utter_320:
+    - text: "Por ejemplo, qué información relevante provee este ranking de fallecimientos per capita? Los microestados, como los micropresidentes, distorsionan las estadísticas. https://t.co/SnLPtxZ6PC"
+
+
+  utter_322:
+    - text: "“Dos años de residencia inmediata”, dice la Constitución. No estipula meses. Si residís al 31 de diciembre de un año y al 1 de enero del siguiente cumplís la formalidad (y pasás un fin de año apoteótico)."
+
+
+  utter_324:
+    - text: "Es verdad! En 1894."
+
+
+  utter_326:
+    - text: "É."
+
+
+  utter_328:
+    - text: "Mientras no me acusen de intelectual..."
+
+
+  utter_330:
+    - text: "Transmito la pregunta a"
+
+
+  utter_332:
+    - text: "Parece un argumento traído de los pelos, pero  explica bien por qué sería ilegal la elección de un estadounidense para presidir @el_bid. https://t.co/dPZjFAKpYi"
+
+
+  utter_334:
+    - text: "Pensaba más en Bayern."
+
+
+  utter_336:
+    - text: "La democracia necesita buenos de los dos lados, amigos, para no terminar como EEUU o Brasil. Los puentes nos salvan."
+
+
+  utter_338:
+    - text: "Todavía no me doy por vencido, pero si perdemos pongo plata para bancar esa declaración."
+
+
+  utter_340:
+    - text: "Al crimen, organizado o no."
+
+
+  utter_342:
+    - text: "Haddad no parecía entusiasmado. Punto para él."
+
+
+  utter_344:
+    - text: "Muchas gracias, Antonio! Buena parte de nuestra inspiración proviene de tus investigaciones."
+
+
+  utter_346:
+    - text: "En Argentina? No. Pero hay alternativas de alcance medio.. https://t.co/nvuFEm8QyK"
+
+
+  utter_348:
+    - text: "Desatorníllenme si pueden."
+
+
+  utter_350:
+    - text: "Buena nota, mejor arte.. https://t.co/ULF9mvBimQ"
+
+
+  utter_352:
+    - text: "La concentración metropolitana es un problema generalizado, pero el federalismo lo agrava. Por eso, la cantidad de distritos (y su representación desproporcionada) importan. https://t.co/JfQAJZh4Aa"
+
+
+  utter_354:
+    - text: "En Argentina? 50%. Pero son justamente los pobres los que más sufren el delito."
+
+
+  utter_356:
+    - text: "Depende. Sos alemán o catalán?"
+
+
+  utter_358:
+    - text: "Es Córdoba invadiendo."
+
+
+  utter_360:
+    - text: "Un vecinito radical te robaba los juguetes cuando eras chico, Daniel?"
+
+
+  utter_362:
+    - text: "No sé, si quieren el Nobel que se lo ganen solos."
+
+
+  utter_364:
+    - text: "Infectócrata."
+
+
+  utter_366:
+    - text: "Absolutamente."
+
+
+  utter_368:
+    - text: "La derecha civilizada latinoamericana desafía a la derecha troglodita de EEUU por  . 6/x. https://t.co/xOo6s5Fzco"
+
+
+  utter_370:
+    - text: "Solemne serás facebook."
+
+
+  utter_372:
+    - text: "Se va a vengar mandándote otro libro."
+
+
+  utter_374:
+    - text: "H para los amigos, hdp para los demás."
+
+
+  utter_376:
+    - text: "Curioso número."
+
+
+  utter_378:
+    - text: "Así es. Como Perú, tiene director suplente pero postula una candidata propia a la presidencia."
+
+
+  utter_380:
+    - text: "Buena suerte con eso, dicen los porteños Ruckauf, Scioli, Vidal y Kicillof desde la gobernación bonaerense."
+
+
+  utter_382:
+    - text: "No entiendo. https://t.co/o7gtmuIiZK"
+
+
+  utter_384:
+    - text: "Por supuesto: el Financial Times banca la renta básica universal.. https://t.co/4cw01sqGyE"
+
+
+  utter_386:
+    - text: "Lo primero no sé, lo segundo doy fe."
+
+
+  utter_388:
+    - text: "Ocho."
+
+
+  utter_390:
+    - text: "Gracias, Jorge!"
+
+
+  utter_392:
+    - text: "Si tengo que explicar los chistes me voy a facebook."
+
+
+  utter_394:
+    - text: "Brasil se llamó así entre 1889 y 1968, los otros dos aún lo hacen."
+
+
+  utter_396:
+    - text: "Yo diría que es más joven, entonces tiene más cultores vivos. Contando fallecidos se empareja:. Huntington  134.244 h93. Waltz             51.397 h53. Morgenthau  33.654 h56"
+
+
+  utter_398:
+    - text: "Sí, y muy prometedora si pierde."
+
+
+  utter_400:
+    - text: "Por eso la descartamos 😉"
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

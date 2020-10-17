@@ -1,0 +1,9 @@
+env/
+__pycache__/
+.vscode/
+chatbot/__pycache__/
+chatbot/models/
+data/
+legacy/
+logs/
+credentials.py
